@@ -1,5 +1,4 @@
- [2:22 pm, 15/07/2023] 🌄: Write a function that takes an array of integers and a rotation count as input and rotates the elements of the array to the right by the given rotation count.
-[2:23 pm, 15/07/2023] darshan: public class ArrayRotation {
+ public class ArrayRotation {
     public static void rotateArray(int[] arr, int rotationCount) {
         int n = arr.length;
         
